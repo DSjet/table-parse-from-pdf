@@ -1,0 +1,6 @@
+Unnamed: 0,Unnamed: 1,2008,Unnamed: 2,Unnamed: 3,2009
+Name,Yes,No,,Yes,No
+Bob,2,5,,6,7
+Sue,3,8,,4,7
+Sam,[data relating to both columns in,,,[data relating to both columns in,
+,a single cell spanning both],,,a single cell spanning both],
